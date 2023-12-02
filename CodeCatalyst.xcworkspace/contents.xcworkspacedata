@@ -1,4 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <Group
+      location = "group:Catalyst"
+      name = "Catalyst">
+      <Group
+         location = "group:C++"
+         name = "C++">
+      </Group>
+      <Group
+         location = "group:Swift"
+         name = "Swift">
+         <Group
+            location = "group:Grounds"
+            name = "Grounds">
+         </Group>
+         <Group
+            location = "group:Projects"
+            name = "Projects">
+            <FileRef
+               location = "group:Vision+Core-ML/Vision+Core-ML.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Libraries"
+            name = "Libraries">
+         </Group>
+      </Group>
+   </Group>
 </Workspace>
