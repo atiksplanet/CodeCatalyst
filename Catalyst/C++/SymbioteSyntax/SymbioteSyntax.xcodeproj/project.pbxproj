@@ -57,9 +57,17 @@
 		7B36C6002B1CFC37005253E3 /* SymbioteSyntax */ = {
 			isa = PBXGroup;
 			children = (
+				7B36C6082B1D0118005253E3 /* Private */,
 				7B36C6012B1CFC37005253E3 /* main.cpp */,
 			);
 			path = SymbioteSyntax;
+			sourceTree = "<group>";
+		};
+		7B36C6082B1D0118005253E3 /* Private */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Private;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
