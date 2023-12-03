@@ -7,6 +7,9 @@
       <Group
          location = "group:C++"
          name = "C++">
+         <FileRef
+            location = "group:SymbioteSyntax/SymbioteSyntax.xcodeproj">
+         </FileRef>
       </Group>
       <Group
          location = "group:Swift"
