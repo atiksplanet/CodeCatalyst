@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7B36C6022B1CFC37005253E3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7B36C6012B1CFC37005253E3 /* main.cpp */; };
+		7B36C6292B1D0924005253E3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7B36C6012B1CFC37005253E3 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +25,19 @@
 /* Begin PBXFileReference section */
 		7B36C5FE2B1CFC37005253E3 /* SymbioteSyntax */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SymbioteSyntax; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B36C6012B1CFC37005253E3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		7B36C6152B1D0861005253E3 /* char-array-compress.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "char-array-compress.cpp"; sourceTree = "<group>"; };
+		7B36C6182B1D0897005253E3 /* 1877. Minimize Maximum Pair Sum in Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1877. Minimize Maximum Pair Sum in Array.cpp"; sourceTree = "<group>"; };
+		7B36C6192B1D0897005253E3 /* 2810-Faulty-Keyboard.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2810-Faulty-Keyboard.cpp"; sourceTree = "<group>"; };
+		7B36C61A2B1D0897005253E3 /* 1980-find-unique-binary-string.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1980-find-unique-binary-string.cpp"; sourceTree = "<group>"; };
+		7B36C61B2B1D0897005253E3 /* 345-Reverse-Vowels.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "345-Reverse-Vowels.cpp"; sourceTree = "<group>"; };
+		7B36C61C2B1D0897005253E3 /* merge-two-sorted-lists.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "merge-two-sorted-lists.cpp"; sourceTree = "<group>"; };
+		7B36C61D2B1D0897005253E3 /* 2785-Sort-Vowels-in-String.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2785-Sort-Vowels-in-String.cpp"; sourceTree = "<group>"; };
+		7B36C61F2B1D08BE005253E3 /* SetOperations.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SetOperations.cpp; sourceTree = "<group>"; };
+		7B36C6202B1D08BE005253E3 /* MapOperations.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MapOperations.cpp; sourceTree = "<group>"; };
+		7B36C6222B1D08D0005253E3 /* Converter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Converter.cpp; sourceTree = "<group>"; };
+		7B36C6242B1D08D0005253E3 /* Log-Power.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Log-Power.cpp"; sourceTree = "<group>"; };
+		7B36C6262B1D08DA005253E3 /* Default-Sorting-Custom-Comparator.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Default-Sorting-Custom-Comparator.cpp"; sourceTree = "<group>"; };
+		7B36C6272B1D08DA005253E3 /* Default-Sorting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Default-Sorting.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +70,10 @@
 		7B36C6002B1CFC37005253E3 /* SymbioteSyntax */ = {
 			isa = PBXGroup;
 			children = (
+				7B36C6252B1D08DA005253E3 /* Algorithms */,
+				7B36C6212B1D08D0005253E3 /* Basics */,
+				7B36C61E2B1D08BE005253E3 /* Collections */,
+				7B36C6172B1D0897005253E3 /* Leetcode */,
 				7B36C6082B1D0118005253E3 /* Private */,
 				7B36C6012B1CFC37005253E3 /* main.cpp */,
 			);
@@ -66,8 +83,73 @@
 		7B36C6082B1D0118005253E3 /* Private */ = {
 			isa = PBXGroup;
 			children = (
+				7B36C6132B1D0861005253E3 /* Rounds */,
 			);
 			path = Private;
+			sourceTree = "<group>";
+		};
+		7B36C6132B1D0861005253E3 /* Rounds */ = {
+			isa = PBXGroup;
+			children = (
+				7B36C6142B1D0861005253E3 /* Tiktok */,
+			);
+			path = Rounds;
+			sourceTree = "<group>";
+		};
+		7B36C6142B1D0861005253E3 /* Tiktok */ = {
+			isa = PBXGroup;
+			children = (
+				7B36C6152B1D0861005253E3 /* char-array-compress.cpp */,
+			);
+			path = Tiktok;
+			sourceTree = "<group>";
+		};
+		7B36C6172B1D0897005253E3 /* Leetcode */ = {
+			isa = PBXGroup;
+			children = (
+				7B36C6182B1D0897005253E3 /* 1877. Minimize Maximum Pair Sum in Array.cpp */,
+				7B36C6192B1D0897005253E3 /* 2810-Faulty-Keyboard.cpp */,
+				7B36C61A2B1D0897005253E3 /* 1980-find-unique-binary-string.cpp */,
+				7B36C61B2B1D0897005253E3 /* 345-Reverse-Vowels.cpp */,
+				7B36C61C2B1D0897005253E3 /* merge-two-sorted-lists.cpp */,
+				7B36C61D2B1D0897005253E3 /* 2785-Sort-Vowels-in-String.cpp */,
+			);
+			path = Leetcode;
+			sourceTree = "<group>";
+		};
+		7B36C61E2B1D08BE005253E3 /* Collections */ = {
+			isa = PBXGroup;
+			children = (
+				7B36C61F2B1D08BE005253E3 /* SetOperations.cpp */,
+				7B36C6202B1D08BE005253E3 /* MapOperations.cpp */,
+			);
+			path = Collections;
+			sourceTree = "<group>";
+		};
+		7B36C6212B1D08D0005253E3 /* Basics */ = {
+			isa = PBXGroup;
+			children = (
+				7B36C6232B1D08D0005253E3 /* Math */,
+				7B36C6222B1D08D0005253E3 /* Converter.cpp */,
+			);
+			path = Basics;
+			sourceTree = "<group>";
+		};
+		7B36C6232B1D08D0005253E3 /* Math */ = {
+			isa = PBXGroup;
+			children = (
+				7B36C6242B1D08D0005253E3 /* Log-Power.cpp */,
+			);
+			path = Math;
+			sourceTree = "<group>";
+		};
+		7B36C6252B1D08DA005253E3 /* Algorithms */ = {
+			isa = PBXGroup;
+			children = (
+				7B36C6262B1D08DA005253E3 /* Default-Sorting-Custom-Comparator.cpp */,
+				7B36C6272B1D08DA005253E3 /* Default-Sorting.cpp */,
+			);
+			path = Algorithms;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,7 +209,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7B36C6022B1CFC37005253E3 /* main.cpp in Sources */,
+				7B36C6292B1D0924005253E3 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
