@@ -14,6 +14,9 @@
          <Group
             location = "group:Grounds"
             name = "Grounds">
+            <FileRef
+               location = "group:Grounds/Grounds.xcodeproj">
+            </FileRef>
          </Group>
          <Group
             location = "group:Projects"
