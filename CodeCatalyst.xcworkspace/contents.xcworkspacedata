@@ -17,17 +17,9 @@
          <Group
             location = "group:Grounds"
             name = "Grounds">
-            <Group
-               location = "group:Players"
-               name = "Players">
-               <Group
-                  location = "group:Leetcode"
-                  name = "Leetcode">
-                  <FileRef
-                     location = "group:1913.playground">
-                  </FileRef>
-               </Group>
-            </Group>
+            <FileRef
+               location = "group:Swifty/Swifty.xcodeproj">
+            </FileRef>
             <FileRef
                location = "group:Grounds/Grounds.xcodeproj">
             </FileRef>
