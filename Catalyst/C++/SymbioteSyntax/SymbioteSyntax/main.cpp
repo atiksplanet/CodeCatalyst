@@ -6,9 +6,20 @@
 //
 
 #include <iostream>
+using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+class Solution {
+public:
+    string largestOddNumber(string num) {
+        return num;
+    }
+};
+
+int main() {
+    cout << "Hello, main.cpp!\n";
+    
+    Solution sl;
+    cout << sl.largestOddNumber("lEetcOde") << endl;
+    
     return 0;
 }
