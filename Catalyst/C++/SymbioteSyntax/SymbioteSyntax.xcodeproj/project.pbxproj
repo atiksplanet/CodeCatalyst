@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7B0B5B172B224E5400E75531 /* 1903. Largest Odd Number in String.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7B0B5B162B224E5400E75531 /* 1903. Largest Odd Number in String.cpp */; };
+		7BDCC5842B2381BE00F328C7 /* 606. Construct String from Binary Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7BDCC5832B2381BE00F328C7 /* 606. Construct String from Binary Tree.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -40,6 +40,7 @@
 		7B36C6262B1D08DA005253E3 /* Default-Sorting-Custom-Comparator.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Default-Sorting-Custom-Comparator.cpp"; sourceTree = "<group>"; };
 		7B36C6272B1D08DA005253E3 /* Default-Sorting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Default-Sorting.cpp"; sourceTree = "<group>"; };
 		7B4E935A2B1E3DC90003C2B1 /* 2264. Largest 3-Same-Digit Number in String.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2264. Largest 3-Same-Digit Number in String.cpp"; sourceTree = "<group>"; };
+		7BDCC5832B2381BE00F328C7 /* 606. Construct String from Binary Tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "606. Construct String from Binary Tree.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +112,7 @@
 			children = (
 				7B36C61C2B1D0897005253E3 /* 21. Merge Two Sorted Lists.cpp */,
 				7B36C61B2B1D0897005253E3 /* 345. Reverse-Vowels.cpp */,
+				7BDCC5832B2381BE00F328C7 /* 606. Construct String from Binary Tree.cpp */,
 				7B36C6182B1D0897005253E3 /* 1877. Minimize Maximum Pair Sum in Array.cpp */,
 				7B0B5B162B224E5400E75531 /* 1903. Largest Odd Number in String.cpp */,
 				7B36C61A2B1D0897005253E3 /* 1980. find-unique-binary-string.cpp */,
@@ -213,7 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7B0B5B172B224E5400E75531 /* 1903. Largest Odd Number in String.cpp in Sources */,
+				7BDCC5842B2381BE00F328C7 /* 606. Construct String from Binary Tree.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
