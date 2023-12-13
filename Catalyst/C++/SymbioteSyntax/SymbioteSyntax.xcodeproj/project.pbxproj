@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7B51B6762B249DAE002CB0D7 /* 94. Binary Tree Inorder Traversal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7B51B6752B249DAE002CB0D7 /* 94. Binary Tree Inorder Traversal.cpp */; };
+		7B6C0C0A2B26434400FD0D00 /* 867. Transpose Matrix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7B6C0C092B26434400FD0D00 /* 867. Transpose Matrix.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +41,7 @@
 		7B36C6272B1D08DA005253E3 /* Default-Sorting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Default-Sorting.cpp"; sourceTree = "<group>"; };
 		7B4E935A2B1E3DC90003C2B1 /* 2264. Largest 3-Same-Digit Number in String.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2264. Largest 3-Same-Digit Number in String.cpp"; sourceTree = "<group>"; };
 		7B51B6752B249DAE002CB0D7 /* 94. Binary Tree Inorder Traversal.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "94. Binary Tree Inorder Traversal.cpp"; sourceTree = "<group>"; };
+		7B6C0C092B26434400FD0D00 /* 867. Transpose Matrix.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "867. Transpose Matrix.cpp"; sourceTree = "<group>"; };
 		7BDCC5832B2381BE00F328C7 /* 606. Construct String from Binary Tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "606. Construct String from Binary Tree.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -115,6 +116,7 @@
 				7B51B6752B249DAE002CB0D7 /* 94. Binary Tree Inorder Traversal.cpp */,
 				7B36C61B2B1D0897005253E3 /* 345. Reverse-Vowels.cpp */,
 				7BDCC5832B2381BE00F328C7 /* 606. Construct String from Binary Tree.cpp */,
+				7B6C0C092B26434400FD0D00 /* 867. Transpose Matrix.cpp */,
 				7B36C6182B1D0897005253E3 /* 1877. Minimize Maximum Pair Sum in Array.cpp */,
 				7B0B5B162B224E5400E75531 /* 1903. Largest Odd Number in String.cpp */,
 				7B36C61A2B1D0897005253E3 /* 1980. find-unique-binary-string.cpp */,
@@ -217,7 +219,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7B51B6762B249DAE002CB0D7 /* 94. Binary Tree Inorder Traversal.cpp in Sources */,
+				7B6C0C0A2B26434400FD0D00 /* 867. Transpose Matrix.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
